@@ -37,24 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543299031048,
-            "changeTime": 1543299031048,
-            "contentHash": "d786f897b6a22488143ef1dd6ae377830e1050dc"
+            "modifiedTime": 1543307502869,
+            "changeTime": 1543307502869,
+            "contentHash": "2818db6ff3f0da04edafd7f88d41995fc725cdae"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1543288754833,
-            "changeTime": 1543288754833,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1543307502610,
+            "changeTime": 1543307502610,
+            "contentHash": "06535f6a6c218ca80bbf6f2f6bf0b5d043648ba0"
         }
     ],
     [
@@ -140,14 +138,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2331,
             "modifiedTime": 1543299030750,
             "changeTime": 1543299030750,
-            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed"
+            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -244,14 +242,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 464,
             "modifiedTime": 1543299030753,
             "changeTime": 1543299030753,
-            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9"
+            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -586,10 +584,10 @@
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10494,
-            "modifiedTime": 1543299030897,
-            "changeTime": 1543299030897,
-            "contentHash": "4a808ce8b73f6da726d817b22239577b4bc9fc61"
+            "size": 10920,
+            "modifiedTime": 1543307502757,
+            "changeTime": 1543307502757,
+            "contentHash": "568e48ce0f822fba457fa4c803fffabc39534c5d"
         }
     ],
     [
@@ -599,10 +597,10 @@
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10498,
-            "modifiedTime": 1543299030940,
-            "changeTime": 1543299030940,
-            "contentHash": "8fa2d4ab8e468bd8afb85068be124ad84e95249f"
+            "size": 10924,
+            "modifiedTime": 1543307502788,
+            "changeTime": 1543307502788,
+            "contentHash": "7514d57ed5409fc778cf431efaf72c67beb8dbc5"
         }
     ],
     [
@@ -612,10 +610,10 @@
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10834,
-            "modifiedTime": 1543299030971,
-            "changeTime": 1543299030971,
-            "contentHash": "f4dabe77c298c8f072e98ba080614cc0827aafc1"
+            "size": 11260,
+            "modifiedTime": 1543307502804,
+            "changeTime": 1543307502804,
+            "contentHash": "7674a8aed22365368949862522a5752a35c8347a"
         }
     ],
     [
@@ -625,10 +623,10 @@
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 25016,
-            "modifiedTime": 1543299031020,
-            "changeTime": 1543299031020,
-            "contentHash": "a649f13a530ff2670a933ffb25d8cc6a24e169fe"
+            "size": 25440,
+            "modifiedTime": 1543307502851,
+            "changeTime": 1543307502851,
+            "contentHash": "b3ad70bbb73509dde6efa4f3a22848804151b82e"
         }
     ],
     [
@@ -660,14 +658,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543299030706,
             "changeTime": 1543299030706,
-            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -699,14 +697,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543299030766,
             "changeTime": 1543299030766,
-            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -764,14 +762,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543299030779,
             "changeTime": 1543299030779,
-            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -803,274 +801,274 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 8603,
             "modifiedTime": 1543299031035,
             "changeTime": 1543299031035,
-            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201"
+            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 236,
             "modifiedTime": 1543299030708,
             "changeTime": 1543299030708,
-            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035"
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1543299030710,
             "changeTime": 1543299030710,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 682,
             "modifiedTime": 1543299030711,
             "changeTime": 1543299030711,
-            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 678,
             "modifiedTime": 1543299030712,
             "changeTime": 1543299030712,
-            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1543299030713,
             "changeTime": 1543299030713,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 672,
             "modifiedTime": 1543299030715,
             "changeTime": 1543299030715,
-            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1543299030717,
             "changeTime": 1543299030717,
-            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 418,
             "modifiedTime": 1543299030766,
             "changeTime": 1543299030766,
-            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3"
+            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3198,
             "modifiedTime": 1543299030779,
             "changeTime": 1543299030779,
-            "contentHash": "160019e7ecbbce5c8bffb652ea2366fccdbd505c"
+            "contentHash": "160019e7ecbbce5c8bffb652ea2366fccdbd505c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1543299030788,
             "changeTime": 1543299030788,
-            "contentHash": "cb1b1ee11491de89d1f86e7aad6aae345dd7a2f5"
+            "contentHash": "cb1b1ee11491de89d1f86e7aad6aae345dd7a2f5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543299030797,
             "changeTime": 1543299030797,
-            "contentHash": "dc830859dc207059215c9d10e06fe4ffc8757cc4"
+            "contentHash": "dc830859dc207059215c9d10e06fe4ffc8757cc4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1543299030805,
             "changeTime": 1543299030805,
-            "contentHash": "ff506785c917a6b374fe18c75294ca8df3cd5764"
+            "contentHash": "ff506785c917a6b374fe18c75294ca8df3cd5764",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1543299030818,
             "changeTime": 1543299030818,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1761,
             "modifiedTime": 1543299030827,
             "changeTime": 1543299030827,
-            "contentHash": "4e1ba9a1d6a7ae0cc789965808c3ad261caa54cf"
+            "contentHash": "4e1ba9a1d6a7ae0cc789965808c3ad261caa54cf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1543299030839,
             "changeTime": 1543299030839,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1773,
             "modifiedTime": 1543299030853,
             "changeTime": 1543299030853,
-            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480"
+            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1004,
             "modifiedTime": 1543299031050,
             "changeTime": 1543299031050,
-            "contentHash": "88859dd8b16e03d6ab881e83ca5e785c6d0c8b32"
+            "contentHash": "88859dd8b16e03d6ab881e83ca5e785c6d0c8b32",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 983,
             "modifiedTime": 1543299031062,
             "changeTime": 1543299031062,
-            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543299030708,
             "changeTime": 1543299030708,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543299030717,
             "changeTime": 1543299030717,
-            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1081,9 +1079,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543299030805,
-            "changeTime": 1543299030805,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
+            "modifiedTime": 1543307502642,
+            "changeTime": 1543307502642,
+            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931"
         }
     ],
     [
@@ -1094,22 +1092,776 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543299030852,
-            "changeTime": 1543299030852,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+            "modifiedTime": 1543307502720,
+            "changeTime": 1543307502720,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507"
         }
     ],
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\customMetadata",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\customMetadata",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543299031062,
             "changeTime": 1543299031062,
-            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd"
+            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502354,
+            "changeTime": 1543307502354,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 701,
+            "modifiedTime": 1543307502370,
+            "changeTime": 1543307502370,
+            "contentHash": "91774403835d3227969d2b1e37747e63dfedda72"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1543307502370,
+            "changeTime": 1543307502370,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1311,
+            "modifiedTime": 1543307502389,
+            "changeTime": 1543307502389,
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1590,
+            "modifiedTime": 1543307502396,
+            "changeTime": 1543307502396,
+            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502405,
+            "changeTime": 1543307502405,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 944,
+            "modifiedTime": 1543307502412,
+            "changeTime": 1543307502412,
+            "contentHash": "bbf762d7f0862419cdb56377f63c85da150d6b95"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1310,
+            "modifiedTime": 1543307502419,
+            "changeTime": 1543307502419,
+            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1078,
+            "modifiedTime": 1543307502426,
+            "changeTime": 1543307502426,
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502433,
+            "changeTime": 1543307502433,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1543307502438,
+            "changeTime": 1543307502438,
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1543307502446,
+            "changeTime": 1543307502446,
+            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502456,
+            "changeTime": 1543307502456,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 58,
+            "modifiedTime": 1543307502464,
+            "changeTime": 1543307502464,
+            "contentHash": "1962a761f211c3ef3eaa4247df5d665f5eddf34d"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502473,
+            "changeTime": 1543307502473,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1126,
+            "modifiedTime": 1543307502481,
+            "changeTime": 1543307502481,
+            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1543307502489,
+            "changeTime": 1543307502489,
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502496,
+            "changeTime": 1543307502496,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 368,
+            "modifiedTime": 1543307502503,
+            "changeTime": 1543307502503,
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 562,
+            "modifiedTime": 1543307502509,
+            "changeTime": 1543307502509,
+            "contentHash": "38268263bfa2604c973499c8771b8a021f2ef825"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 729,
+            "modifiedTime": 1543307502516,
+            "changeTime": 1543307502516,
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 186,
+            "modifiedTime": 1543307502521,
+            "changeTime": 1543307502521,
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502529,
+            "changeTime": 1543307502529,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 471,
+            "modifiedTime": 1543307502536,
+            "changeTime": 1543307502536,
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1898,
+            "modifiedTime": 1543307502539,
+            "changeTime": 1543307502539,
+            "contentHash": "06d57b90a99a4f037332f3fda3c7105abeb0e8b5"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4282,
+            "modifiedTime": 1543307502539,
+            "changeTime": 1543307502539,
+            "contentHash": "1dad89d0d08432734b8775ce7f3166d730de9962"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1543307502555,
+            "changeTime": 1543307502555,
+            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502555,
+            "changeTime": 1543307502555,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1543307502571,
+            "changeTime": 1543307502571,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502586,
+            "changeTime": 1543307502586,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 579,
+            "modifiedTime": 1543307502586,
+            "changeTime": 1543307502586,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 258,
+            "modifiedTime": 1543307502586,
+            "changeTime": 1543307502586,
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543307502609,
+            "changeTime": 1543307502609,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307502610,
+            "changeTime": 1543307502610,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1543307502610,
+            "changeTime": 1543307502610,
+            "contentHash": "d008175b9de5fc0421d6d51d9a0ccdd5e0ce3046"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 511,
+            "modifiedTime": 1543307502626,
+            "changeTime": 1543307502626,
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1153,
+            "modifiedTime": 1543307502642,
+            "changeTime": 1543307502642,
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 333,
+            "modifiedTime": 1543307502642,
+            "changeTime": 1543307502642,
+            "contentHash": "98d406532f067cba4749225a15175c046ba54e0c"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1506,
+            "modifiedTime": 1543307502673,
+            "changeTime": 1543307502673,
+            "contentHash": "e264fb321397cbd172496412356825b0d14ec5ed"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flows\\Create_Reservation.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flows\\Create_Reservation.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11203,
+            "modifiedTime": 1543307502704,
+            "changeTime": 1543307502704,
+            "contentHash": "1e3e8a0eca1c5d3ab554fd048c8a2cd755800516"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1543307502720,
+            "changeTime": 1543307502720,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 555,
+            "modifiedTime": 1543307502720,
+            "changeTime": 1543307502720,
+            "contentHash": "6c7382bc7498b153a1f81b64928f36d3d490c236"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1543307502871,
+            "changeTime": 1543307502871,
+            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 210106,
+            "modifiedTime": 1543307502871,
+            "changeTime": 1543307502871,
+            "contentHash": "e82e859181022a082b012a987e462b841b757db7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502396,
+            "changeTime": 1543307502396,
+            "contentHash": "c4bd58ae7663c68dc57648f6a93adc1c7202cef9"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502426,
+            "changeTime": 1543307502426,
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502446,
+            "changeTime": 1543307502446,
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502463,
+            "changeTime": 1543307502463,
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\marketService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502489,
+            "changeTime": 1543307502489,
+            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502521,
+            "changeTime": 1543307502521,
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\customerDetails",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502555,
+            "changeTime": 1543307502555,
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\muteTiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\muteTiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502571,
+            "changeTime": 1543307502571,
+            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\openRecordAction",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502608,
+            "changeTime": 1543307502608,
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502610,
+            "changeTime": 1543307502610,
+            "contentHash": "1d7d84aeb82f5af6e31d240008bb09c28fbdaf8b"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502642,
+            "changeTime": 1543307502642,
+            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502673,
+            "changeTime": 1543307502673,
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flows",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502704,
+            "changeTime": 1543307502704,
+            "contentHash": "c53bb997fcb74b4f8eb3633e5c25968e2429ba09"
+        }
+    ],
+    [
+        "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\contentassets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307502871,
+            "changeTime": 1543307502871,
+            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6"
         }
     ]
 ]
