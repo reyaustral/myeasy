@@ -11,6 +11,11 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
+                <fullName>Building Block Room</fullName>
+                <default>false</default>
+                <label>Building Block Room</label>
+            </value>
+            <value>
                 <fullName>Café</fullName>
                 <default>false</default>
                 <label>Café</label>
