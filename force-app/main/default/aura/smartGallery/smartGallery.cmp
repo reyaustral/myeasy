@@ -18,6 +18,8 @@
             <lightning:layoutItem size="3" class="slds-p-left_small slds-p-bottom_small">
                 <div>
                     <h1 class="slds-text-heading_x-small">Filter by Space Type:</h1>
+                     <!-- aura:handler event="c.selectChange" action="{!c.handleChange}"/ -->
+                     <!-- selectChange="{!c.handleChange}" -->
                     <c:pillTile selectChange="{!c.handleChange}" values="Scheduled Activity,Come-and-Go,Large Groups,Individuals or Small Groups,Indoor,Outdoor,Conversation Starter,Energizing,Quiet,Relaxing" />
                 </div>
                 
@@ -46,7 +48,8 @@
                     
                     <aura:iteration items="{!v.relatedSpaces}" var="space">
                         <lightning:layoutItem size="3" class="slds-p-horizontal_small slds-p-vertical_xx-small tile">
-                            
+                            <!-- aura:handler event="c.selectChange" action="{!c.handleDeselect}"/ -->
+                     		<!-- selectChange="{!c.handleDeselect}" -->
                             <c:galleryTile src="{!space.Picture_URL__c}" 
                                            description="{!space.Name}" 
                                            recordId="{!space.Id}" 

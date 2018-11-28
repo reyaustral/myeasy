@@ -1555,14 +1555,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3815,
             "modifiedTime": 1543375813025,
             "changeTime": 1543375813025,
-            "contentHash": "a00859be1c34b09b14472c38878118625fdcb0d1"
+            "contentHash": "a00859be1c34b09b14472c38878118625fdcb0d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1805,7 +1805,7 @@
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\reservationTile",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1543368578993,
+            "modifiedTime": 1543375813025,
             "changeTime": 1543368578993,
             "contentHash": "a1e7c21d7ebc36e9b53b127840034e5e2ea4ab19",
             "isMetadataFile": false,
@@ -1971,14 +1971,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp",
             "isDirectory": false,
-            "size": 3601,
-            "modifiedTime": 1543368578933,
-            "changeTime": 1543368578933,
-            "contentHash": "e24a9be1d4f5ec33134ce049a1b9cc57d8965c37",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 3899,
+            "modifiedTime": 1543386345810,
+            "changeTime": 1543386345810,
+            "contentHash": "79d57b8973a24256092a51adc8fa8f3557df7591"
         }
     ],
     [
@@ -2283,14 +2283,14 @@
     [
         "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1000,
             "modifiedTime": 1543375813090,
             "changeTime": 1543375813090,
-            "contentHash": "bf111e6222088cf9262b08adc4ea9a37b14c46b3"
+            "contentHash": "bf111e6222088cf9262b08adc4ea9a37b14c46b3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2520,7 +2520,7 @@
             "sourcePath": "C:\\Users\\raustral\\Documents\\Salesforce DX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1543368579127,
+            "modifiedTime": 1543375813090,
             "changeTime": 1543368579127,
             "contentHash": "4eccfc141d5e6e54ff30cd0233d4c48a2783d79a",
             "isMetadataFile": false,
