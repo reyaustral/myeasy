@@ -15,19 +15,19 @@
             </componentInstanceProperties>
             <componentName>customerList</componentName>
         </componentInstances>
-        <name>column1</name>
+        <name>leftColumn</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
             <componentName>reservationHelper</componentName>
         </componentInstances>
-        <name>column2</name>
+        <name>rightColumn</name>
         <type>Region</type>
     </flexiPageRegions>
     <masterLabel>Reservation Manager</masterLabel>
     <template>
-        <name>flexipage:appHomeTemplateTwoColumns</name>
+        <name>AppPage_2column</name>
     </template>
     <type>AppPage</type>
 </FlexiPage>

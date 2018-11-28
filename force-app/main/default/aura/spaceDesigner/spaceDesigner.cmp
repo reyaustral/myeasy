@@ -5,7 +5,7 @@
     <aura:attribute name="customer" type="String"/>
     <aura:attribute name="tabId" type="String" />
     
-    <aura:handler event="c:selectObject" action="{!c.manageFlow}"/>
+    <aura:handler event="c:selectObject" action="{!c.manageFlow}"/> <!-- SEND BY RESERVATION TILE -->
     <aura:handler name="init" value="this" action="{!c.onInit}"/>
     
     <aura:if isTrue="{!v.reservation}">

@@ -2,9 +2,9 @@
     <aura:attribute name="reservation" type="Object"/>
     <aura:attribute name="muted" type="Boolean" default="false"/>
     
-    <aura:registerEvent name="selectObject" type="c:selectObject"/>
-    <aura:registerEvent name="mute" type="c:muteTiles"/>
-    <aura:handler event="c:muteTiles" action="{!c.checkMute}"/>
+    <aura:registerEvent name="selectObject" type="c:selectObject"/> <!-- APPLICATION EVENT -->
+    <aura:registerEvent name="mute" type="c:muteTiles"/> <!-- APPLICATION EVENT -->
+    <aura:handler event="c:muteTiles" action="{!c.checkMute}"/> <!-- RECEIVER EVENT -->
     
     <div aura:id="tile" onclick="{!c.handleClick}" class="tile">
         <lightning:tile label="{!v.reservation.Name}" title="{!v.reservation.Name}" href="{! '/lightning/r/Reservation__c/' + v.reservation.Id + '/view'}">
